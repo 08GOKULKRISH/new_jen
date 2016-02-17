@@ -1,3 +1,3 @@
 # new_jen
 new jenkins
-integration
+integrate with jenkins
